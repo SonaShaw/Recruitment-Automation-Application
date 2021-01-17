@@ -11,7 +11,7 @@
 http://recruitment.infinityfreeapp.com/Front%20Desk
 
 
-Login Id : frontdesk@cloudinfosolutions.com
+Login Id : frontdesk@cloudinfosolutions.com      
 Login pwd: frontdesk@123
 
 ==========================================================    
@@ -20,7 +20,7 @@ Login pwd: frontdesk@123
 
 http://recruitment.infinityfreeapp.com/Screening
 
-Login Id : screening@cloudinfosolutions.com
+Login Id : screening@cloudinfosolutions.com      
 Login pwd: screening@123
 
 
@@ -30,7 +30,7 @@ Login pwd: screening@123
 
 http://recruitment.infinityfreeapp.com/HR-Admin
 
-Login Id : hr-admin@cloudinfosolutions.com
+Login Id : hr-admin@cloudinfosolutions.com    
 Login pwd: hr-admin@123
 
 
@@ -41,7 +41,7 @@ Login pwd: hr-admin@123
 http://recruitment.infinityfreeapp.com/HOD
 
 
-Login Id : hod@cloudinfosolutions.com
+Login Id : hod@cloudinfosolutions.com     
 Login pwd: hod@123
 
 ==========================================================    
