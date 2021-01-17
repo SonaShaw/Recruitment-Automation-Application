@@ -8,7 +8,7 @@
 ==========================================================  
 ============Front Desk Module==========================
 
-http://recruitment.infinityfreeapp.com/Front Desk
+http://recruitment.infinityfreeapp.com/Front%20Desk
 
 
 Login Id : frontdesk@cloudinfosolutions.com
