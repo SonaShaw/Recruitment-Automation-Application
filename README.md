@@ -1,5 +1,51 @@
 # Recruitment-Automation-Application
 
+
+#Demo
+
+
+==========================================================
+============Front Desk Module==========================
+
+http://recruitment.infinityfreeapp.com/Front Desk
+
+
+Login Id : frontdesk@cloudinfosolutions.com
+Login pwd: frontdesk@123
+
+==========================================================
+==========================================================
+============Screening Module==============================
+
+http://recruitment.infinityfreeapp.com/Screening
+
+Login Id : screening@cloudinfosolutions.com
+Login pwd: screening@123
+
+
+==========================================================
+==========================================================
+============Hr-Admin Module==============================
+
+http://recruitment.infinityfreeapp.com/HR-Admin
+
+Login Id : hr-admin@cloudinfosolutions.com
+Login pwd: hr-admin@123
+
+
+==========================================================
+==========================================================
+============HOD Module==============================
+
+http://recruitment.infinityfreeapp.com/HOD
+
+
+Login Id : hod@cloudinfosolutions.com
+Login pwd: hod@123
+
+==========================================================
+==========================================================
+
 Functions and working steps of the application for candidate hiring is devided into 4 modules:
 1. Front Desk Module  
 -> Receptionist Login page with validation of username and password.  
