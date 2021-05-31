@@ -42,7 +42,7 @@
 # Demo
 
 
-# =========================================== 
+# ================================= 
 ### Front Desk Module
 
 http://recruitment.infinityfreeapp.com/Front%20Desk
@@ -50,7 +50,7 @@ http://recruitment.infinityfreeapp.com/Front%20Desk
 Login Id : frontdesk@cloudinfosolutions.com      
 Login pwd: frontdesk@123
 
-# ===========================================    
+# =================================    
  
 ### Screening Module
 
@@ -60,7 +60,7 @@ Login Id : screening@cloudinfosolutions.com
 Login pwd: screening@123
 
 
-# ===========================================     
+# =================================     
 ### Hr-Admin Module
 
 http://recruitment.infinityfreeapp.com/HR-Admin
@@ -69,7 +69,7 @@ Login Id : hr-admin@cloudinfosolutions.com
 Login pwd: hr-admin@123
 
 
-# ===========================================    
+# =================================    
  
 ### HOD Module
 
@@ -78,5 +78,5 @@ http://recruitment.infinityfreeapp.com/HOD
 Login Id : hod@cloudinfosolutions.com     
 Login pwd: hod@123
 
-# ===========================================    
+# =================================    
   
